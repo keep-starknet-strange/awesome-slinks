@@ -33,6 +33,10 @@ Here's a list of some cool Slinks on Starknet:
   * Live Slink Tweet: [https://x.com/EkuboProtocol/status/1816154347547312261](https://x.com/EkuboProtocol/status/1816154347547312261)
   * Official Application Website: [https://app.ekubo.org/](https://app.ekubo.org/)
 
+* **Fibrous**
+  * Live Slink Tweet: [https://x.com/FibrousFinance/status/1816451301942657529](https://x.com/FibrousFinance/status/1816451301942657529)
+  * Official Application Website: [fibrous.finance](https://app.fibrous.finance/))
+
 ## Contributing
 
 We welcome contributions from the community! If you know of a cool Slink that's not on the list, feel free to submit a pull request.
