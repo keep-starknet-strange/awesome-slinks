@@ -45,6 +45,10 @@ Here's a list of some cool Slinks on Starknet:
   * Live Slink Tweet: [https://x.com/strkfarm/status/1816536692813365417](https://x.com/strkfarm/status/1816536692813365417)
   * Official Application Website: [strkfarm.xyz](https://strkfarm.xyz/)
   
+* **Raize Club**
+  * Live Slink Tweet: [https://x.com/RaizeClub/status/1816493967099437119](https://x.com/RaizeClub/status/1816493967099437119)
+  * Official Application Website: [raize.club](https://raize.club/)
+
 ## Contributing
 
 We welcome contributions from the community! If you know of a cool Slink that's not on the list, feel free to submit a pull request.
