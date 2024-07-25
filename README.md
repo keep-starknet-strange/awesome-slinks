@@ -51,6 +51,22 @@ We welcome contributions from the community! If you know of a cool Slink that's 
 
 ## How to Implement a Slink
 
+### Considerations
+
+Please note that Twitter Slinks are not scrollable. If the application requires scrolling, you can do it using wrapping your body in a `div` with `overflow: auto`.
+
+```css
+html, body {
+  overflow: hidden;
+  height: 100%;
+}
+
+#root {
+  overflow: auto;
+  height: 100%;
+}
+```
+
 ### Implement Twitter Card Metadata
 
 Add the following meta tags to your main app's HTML `<head>`:
