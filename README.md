@@ -35,7 +35,11 @@ Here's a list of some cool Slinks on Starknet:
 
 * **Fibrous**
   * Live Slink Tweet: [https://x.com/FibrousFinance/status/1816451301942657529](https://x.com/FibrousFinance/status/1816451301942657529)
-  * Official Application Website: [fibrous.finance](https://app.fibrous.finance/))
+  * Official Application Website: [fibrous.finance](https://app.fibrous.finance/)
+
+* **Flex**
+  * Live Slink Tweet: [https://x.com/Flex_strk/status/1816460243616035061](https://x.com/Flex_strk/status/1816460243616035061)
+  * Official Application Website: [hyperflex.market](https://hyperflex.market/)
 
 ## Contributing
 
