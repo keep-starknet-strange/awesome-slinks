@@ -41,6 +41,10 @@ Here's a list of some cool Slinks on Starknet:
   * Live Slink Tweet: [https://x.com/Flex_strk/status/1816460243616035061](https://x.com/Flex_strk/status/1816460243616035061)
   * Official Application Website: [hyperflex.market](https://hyperflex.market/)
 
+* **STRKFarm.xyz**
+  * Live Slink Tweet: [https://x.com/strkfarm/status/1816536692813365417](https://x.com/strkfarm/status/1816536692813365417)
+  * Official Application Website: [strkfarm.xyz](https://strkfarm.xyz/)
+  
 * **Raize Club**
   * Live Slink Tweet: [https://x.com/RaizeClub/status/1816493967099437119](https://x.com/RaizeClub/status/1816493967099437119)
   * Official Application Website: [raize.club](https://raize.club/)
