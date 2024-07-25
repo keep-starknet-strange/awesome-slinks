@@ -36,7 +36,30 @@ We welcome contributions from the community! If you know of a cool Slink that's 
 
 ## How to Implement a Slink
 
-(Add instructions or link to a guide on how to implement a Slink for a Starknet Application)
+### 1. Implement Twitter Card Metadata
+Add the following meta tags to your main app's HTML `<head>`:
+```html
+<meta name="twitter:card" content="player">
+<meta name="twitter:site" content="@YourTwitterHandle">
+<meta name="twitter:title" content="Your App Title">
+<meta name="twitter:description" content="Brief description of your app">
+<meta name="twitter:player" content="https://your-domain.com/twitter-card.html">
+<meta name="twitter:player:width" content="360">
+<meta name="twitter:player:height" content="560">
+<meta name="twitter:image" content="https://your-domain.com/preview-image.png">
+```
+
+### Additional Considerations
+
+### Implement Open Graph Meta Tags
+To improve sharing across various social media platforms, add Open Graph meta tags to your HTML:
+
+```html
+<meta property="og:url" content="YOUR_PAGE_URL">
+<meta property="og:title" content="Your Title Here">
+<meta property="og:description" content="Your description here">
+<meta property="og:image" content="URL_TO_YOUR_IMAGE">
+```
 
 ## License
 
