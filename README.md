@@ -41,6 +41,10 @@ Here's a list of some cool Slinks on Starknet:
   * Live Slink Tweet: [https://x.com/Flex_strk/status/1816460243616035061](https://x.com/Flex_strk/status/1816460243616035061)
   * Official Application Website: [hyperflex.market](https://hyperflex.market/)
 
+* **Unruggable Meme**
+  * Live Slink Tweet: [https://x.com/TrueTiem/status/1816462834508738720](https://x.com/TrueTiem/status/1816462834508738720)
+  * Official Application Website: [unruggable.meme](https://unruggable.meme/)
+
 ## Contributing
 
 We welcome contributions from the community! If you know of a cool Slink that's not on the list, feel free to submit a pull request.
