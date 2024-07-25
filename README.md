@@ -42,7 +42,7 @@ Here's a list of some cool Slinks on Starknet:
   * Official Application Website: [hyperflex.market](https://hyperflex.market/)
 
 * **STRKFarm.xyz**
-  * Live Slink Tweet: [https://x.com/strkfarm/status/1816535207706570959](https://x.com/strkfarm/status/1816535207706570959)
+  * Live Slink Tweet: [https://x.com/strkfarm/status/1816536692813365417](https://x.com/strkfarm/status/1816536692813365417)
   * Official Application Website: [strkfarm.xyz](https://strkfarm.xyz/)
   
 ## Contributing
