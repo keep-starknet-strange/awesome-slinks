@@ -8,9 +8,12 @@ Welcome to the Awesome Slinks repository! This is a community-curated list of co
 
 Slinks are the Starknet version of Solana Blinks (Blockchain Links). The concept is simple: use a Starknet application directly from Twitter as an embed card in a tweet.
 
+Under the hood, Slinks are just [Twitter Cards](https://developer.x.com/en/docs/twitter-for-websites/cards/overview/abouts-cards).
+
 ## Purpose of this Repository
 
 This repository serves two main purposes:
+
 1. To showcase a collection of cool Slinks on Starknet
 2. To demonstrate how to easily implement a Slink for any Starknet Application
 
@@ -23,12 +26,12 @@ This repository serves two main purposes:
 Here's a list of some cool Slinks on Starknet:
 
 * **Avnu**
-  - Live Slink Tweet: [https://x.com/avnu_fi/status/1816442462069502441](https://x.com/avnu_fi/status/1816442462069502441)
-  - Official Application Website: [app.avnu.fi](https://app.avnu.fi)
+  * Live Slink Tweet: [https://x.com/avnu_fi/status/1816442462069502441](https://x.com/avnu_fi/status/1816442462069502441)
+  * Official Application Website: [app.avnu.fi](https://app.avnu.fi)
 
 * **Ekubo**
-  - Live Slink Tweet: [https://x.com/EkuboProtocol/status/1816154347547312261](https://x.com/EkuboProtocol/status/1816154347547312261)
-  - Official Application Website: [https://app.ekubo.org/](https://app.ekubo.org/)
+  * Live Slink Tweet: [https://x.com/EkuboProtocol/status/1816154347547312261](https://x.com/EkuboProtocol/status/1816154347547312261)
+  * Official Application Website: [https://app.ekubo.org/](https://app.ekubo.org/)
 
 ## Contributing
 
@@ -36,8 +39,10 @@ We welcome contributions from the community! If you know of a cool Slink that's 
 
 ## How to Implement a Slink
 
-### 1. Implement Twitter Card Metadata
+### Implement Twitter Card Metadata
+
 Add the following meta tags to your main app's HTML `<head>`:
+
 ```html
 <meta name="twitter:card" content="player">
 <meta name="twitter:site" content="@YourTwitterHandle">
@@ -52,6 +57,7 @@ Add the following meta tags to your main app's HTML `<head>`:
 ### Additional Considerations
 
 ### Implement Open Graph Meta Tags
+
 To improve sharing across various social media platforms, add Open Graph meta tags to your HTML:
 
 ```html
