@@ -25,32 +25,44 @@ This repository serves two main purposes:
 
 Here's a list of some cool Slinks on Starknet:
 
-* **Avnu**
-  * Live Slink Tweet: [https://x.com/avnu_fi/status/1816442462069502441](https://x.com/avnu_fi/status/1816442462069502441)
-  * Official Application Website: [app.avnu.fi](https://app.avnu.fi)
+- **Avnu**
 
-* **Ekubo**
-  * Live Slink Tweet: [https://x.com/EkuboProtocol/status/1816154347547312261](https://x.com/EkuboProtocol/status/1816154347547312261)
-  * Official Application Website: [https://app.ekubo.org/](https://app.ekubo.org/)
+  - Live Slink Tweet: [https://x.com/avnu_fi/status/1816442462069502441](https://x.com/avnu_fi/status/1816442462069502441)
+  - Official Application Website: [app.avnu.fi](https://app.avnu.fi)
 
-* **Fibrous**
-  * Live Slink Tweet: [https://x.com/FibrousFinance/status/1816451301942657529](https://x.com/FibrousFinance/status/1816451301942657529)
-  * Official Application Website: [fibrous.finance](https://app.fibrous.finance/)
+- **Ekubo**
 
-* **Flex**
-  * Live Slink Tweet: [https://x.com/Flex_strk/status/1816460243616035061](https://x.com/Flex_strk/status/1816460243616035061)
-  * Official Application Website: [hyperflex.market](https://hyperflex.market/)
-* **STARK Arcade**
-  * Live Slink Tweet: [https://x.com/starkarcade/status/1816499897061056877](https://x.com/starkarcade/status/1816499897061056877)
-  * Official Application Website: [starkflip.starkarcade.com](https://starkflip.starkarcade.com/)
+  - Live Slink Tweet: [https://x.com/EkuboProtocol/status/1816154347547312261](https://x.com/EkuboProtocol/status/1816154347547312261)
+  - Official Application Website: [https://app.ekubo.org/](https://app.ekubo.org/)
 
-* **STRKFarm.xyz**
-  * Live Slink Tweet: [https://x.com/strkfarm/status/1816536692813365417](https://x.com/strkfarm/status/1816536692813365417)
-  * Official Application Website: [strkfarm.xyz](https://strkfarm.xyz/)
-  
-* **Raize Club**
-  * Live Slink Tweet: [https://x.com/RaizeClub/status/1816493967099437119](https://x.com/RaizeClub/status/1816493967099437119)
-  * Official Application Website: [raize.club](https://raize.club/)
+- **Fibrous**
+
+  - Live Slink Tweet: [https://x.com/FibrousFinance/status/1816451301942657529](https://x.com/FibrousFinance/status/1816451301942657529)
+  - Official Application Website: [fibrous.finance](https://app.fibrous.finance/)
+
+- **Flex**
+
+  - Live Slink Tweet: [https://x.com/Flex_strk/status/1816460243616035061](https://x.com/Flex_strk/status/1816460243616035061)
+  - Official Application Website: [hyperflex.market](https://hyperflex.market/)
+
+- **STRKFarm.xyz**
+
+  - Live Slink Tweet: [https://x.com/strkfarm/status/1816536692813365417](https://x.com/strkfarm/status/1816536692813365417)
+  - Official Application Website: [strkfarm.xyz](https://strkfarm.xyz/)
+
+- **Raize Club**
+
+  - Live Slink Tweet: [https://x.com/RaizeClub/status/1816493967099437119](https://x.com/RaizeClub/status/1816493967099437119)
+  - Official Application Website: [raize.club](https://raize.club/)
+
+- **STRKFarm.xyz**
+
+  - Live Slink Tweet: [https://x.com/strkfarm/status/1816536692813365417](https://x.com/strkfarm/status/1816536692813365417)
+  - Official Application Website: [strkfarm.xyz](https://strkfarm.xyz/)
+
+- **Jediswap**
+  - Live Slink Tweet: [https://x.com/JediSwap/status/1816693579055825327](https://x.com/JediSwap/status/1816693579055825327)
+  - Official Application Website: [app.jediswap.xyz](https://app.jediswap.xyz/)
 
 ## Contributing
 
@@ -63,14 +75,20 @@ We welcome contributions from the community! If you know of a cool Slink that's 
 Add the following meta tags to your main app's HTML `<head>`:
 
 ```html
-<meta name="twitter:card" content="player">
-<meta name="twitter:site" content="@YourTwitterHandle">
-<meta name="twitter:title" content="Your App Title">
-<meta name="twitter:description" content="Brief description of your app">
-<meta name="twitter:player" content="https://your-domain.com/twitter-card.html">
-<meta name="twitter:player:width" content="360">
-<meta name="twitter:player:height" content="560">
-<meta name="twitter:image" content="https://your-domain.com/preview-image.png">
+<meta name="twitter:card" content="player" />
+<meta name="twitter:site" content="@YourTwitterHandle" />
+<meta name="twitter:title" content="Your App Title" />
+<meta name="twitter:description" content="Brief description of your app" />
+<meta
+  name="twitter:player"
+  content="https://your-domain.com/twitter-card.html"
+/>
+<meta name="twitter:player:width" content="360" />
+<meta name="twitter:player:height" content="560" />
+<meta
+  name="twitter:image"
+  content="https://your-domain.com/preview-image.png"
+/>
 ```
 
 ### Additional Considerations
@@ -80,10 +98,10 @@ Add the following meta tags to your main app's HTML `<head>`:
 To improve sharing across various social media platforms, add Open Graph meta tags to your HTML:
 
 ```html
-<meta property="og:url" content="YOUR_PAGE_URL">
-<meta property="og:title" content="Your Title Here">
-<meta property="og:description" content="Your description here">
-<meta property="og:image" content="URL_TO_YOUR_IMAGE">
+<meta property="og:url" content="YOUR_PAGE_URL" />
+<meta property="og:title" content="Your Title Here" />
+<meta property="og:description" content="Your description here" />
+<meta property="og:image" content="URL_TO_YOUR_IMAGE" />
 ```
 
 ## License
