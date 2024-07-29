@@ -99,6 +99,31 @@ To improve sharing across various social media platforms, add Open Graph meta ta
 <meta property="og:image" content="URL_TO_YOUR_IMAGE" />
 ```
 
+## FAQ / Troubleshooting
+
+### Q: Why don't Slinks work for me? I only see a link that redirects me to the website.
+
+A: If Slinks aren't displaying properly and you're only seeing a link that redirects to the website, it's likely due to cookie settings on X. To resolve this:
+
+1. Ensure you're accepting all cookies from X.
+2. If you're using Chrome or Arc browser, check your cookie settings for X.
+3. Try clearing your browser cache and cookies, then reload the page.
+
+Remember, Slinks rely on X's ability to load and display Twitter Cards. Without the proper cookie permissions, X may not be able to render the embedded content correctly.
+
+### Q: How do I accept all cookies from X?
+
+A: To accept all cookies from X:
+
+1. Go to X.com
+2. Look for a cookie consent banner or popup
+3. Choose "Accept All Cookies" or a similar option
+4. If you don't see a banner, check your browser settings or X account settings for cookie preferences
+
+After accepting cookies, try viewing the Slink again. It should now display properly as an embedded card in the tweet.
+
+If you're still experiencing issues after following these steps, please ensure your browser is up to date and try disabling any ad-blockers or privacy extensions that might interfere with X's functionality.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
