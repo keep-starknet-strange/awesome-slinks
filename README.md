@@ -59,6 +59,10 @@ Here's a list of some cool Slinks on Starknet:
   - Live Slink Tweet: [https://x.com/JediSwap/status/1816693579055825327](https://x.com/JediSwap/status/1816693579055825327)
   - Official Application Website: [app.jediswap.xyz](https://app.jediswap.xyz/)
 
+- **Dragark**
+  - Live Slink Tweet: [https://x.com/playDRAGARK/status/1823217754989892053](https://x.com/playDRAGARK/status/1823217754989892053)
+  - Official Application Website: [dragark.net](https://dragark.net/)
+
 ## Contributing
 
 We welcome contributions from the community! If you know of a cool Slink that's not on the list, feel free to submit a pull request.
